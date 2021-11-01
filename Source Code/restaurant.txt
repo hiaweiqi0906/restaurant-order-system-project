@@ -1,0 +1,12 @@
+(menu):Steak	11.9
+(menu):Pasta	12.3
+(menu):Kuey Teow Sup	10.5
+(menu):Baguette	4.99
+(menu):Mushroom Soup	7.9
+(order):Hia Wei Qi	Bukit Mertajam	0109406020
+2-Pasta	12.3
+2-Char Kuey Teow	14
+0
+(order):Tester	Simpang Ampat	0123456789
+2-Kuey Teow Sup	10.5
+0
